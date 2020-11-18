@@ -1,14 +1,12 @@
-# ProtoSaturn
+# Mercury
 My own experimental neural network framework. In development...
+Goal of the Mercury is to be mini-framework akin to pytorch (deliver same clarity and same or better speed than pytorch).
 
-Should be alright with python 3.8.0+. Also it's builded on numpy and Tensor is just wrapper around numpy.
+Should be alright with python 3.8.0+. Also it's builded on numpy and Tensor is just wrapper around it.
 
 List to do:
-- add penalization for loss
 - Upgrade Tensor
 - add GPU acceleration (numba)
-- implement MSELoss, Sigmoid (correct), MAELoss, BCELoss, sine data generate, Dropout (original ver)
-- implement option for another initialization of weights and biases
-- implement Conv and Rnn
+- implement basic NN
 
-inspired by Tinygrad/micrograd/nnfs(from sentdex)/pytorch
+Inspired by: Pytorch, Micrograd / Tinygrad and MyGrad.
