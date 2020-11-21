@@ -20,7 +20,8 @@ class Function:
 def setattr_tensor(cls):
     # cls -> operation (op)
     def call_func(*args, **kwargs):
-        # check if all *args are tensors
+        # check if all *args are tensors 
+        # this is for operations like: Tensor(x) * 3 
         remember = []
         for t in args:
             if not isinstance(t, Tensor):
