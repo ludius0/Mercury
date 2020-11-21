@@ -18,6 +18,7 @@ There is a lot of debugging to do and it still miss plenty of things, but you ca
 Pytorch:
 - https://github.com/pytorch/pytorch
 - https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html
+- also I feel like pytorch code is one of the best I ever seen
 
 Micrograd:
 - https://github.com/karpathy/micrograd
@@ -25,6 +26,7 @@ Micrograd:
 
 Also I found Tinygrad from George Hotz and learned a lot from it.
 -> like setting attribute for Tensor in this way like pytorch and have cleaner way for backward.
+
 Tinygrad:
 - https://github.com/geohot/tinygrad
 
