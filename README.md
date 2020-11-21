@@ -16,17 +16,17 @@ There is a lot of debugging to do and it still miss plenty of things, but you ca
 
 ### Inspired by: 
 Pytorch:
-https://github.com/pytorch/pytorch
-https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html
+- https://github.com/pytorch/pytorch
+- https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html
 
 Micrograd:
-https://github.com/karpathy/micrograd
+- https://github.com/karpathy/micrograd
 
 
 Also I found Tinygrad from George Hotz and learned a lot from it.
--> like setting attribute for Tensor in this way like pytorch.
+-> like setting attribute for Tensor in this way like pytorch and have cleaner way for backward.
 Tinygrad:
-https://github.com/geohot/tinygrad
+- https://github.com/geohot/tinygrad
 
 also this one -> MyGrad:
-https://github.com/rsokl/MyGrad
+- https://github.com/rsokl/MyGrad
