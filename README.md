@@ -11,9 +11,8 @@ backpropagation (backward), so it would be used for computing gradient, which is
 There is a lot of debugging to do and it still miss plenty of things, but you can already do something with it.
 
 List to do:
-- Upgrade Tensor
-- add GPU acceleration (numba)
 - implement basic NN
+- add GPU acceleration (numba)
 
 Inspired by: 
 Pytorch:
