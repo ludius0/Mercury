@@ -12,7 +12,9 @@ There is a lot of debugging to do and it still miss plenty of things, but you ca
 
 ## List to do:
 - implement basic NN
+- implement other stuff (Leaky ReLU or Dropout)
 - add GPU acceleration (numba)
+- add RL & Connv
 
 ### Inspired by: 
 Pytorch:
