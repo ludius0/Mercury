@@ -1,4 +1,9 @@
 # Mercury
+UPDATE:
+Developing is on-hold for the moment and in the future I want to reorient it on complex numbers.
+
+
+
 My own experimental neural network framework. In development...
 Goal of the Mercury is to be mini-framework akin to pytorch, but I develop it mainly to be sure that I understand deep learning -> How to be sure? build it.
 
